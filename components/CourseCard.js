@@ -30,7 +30,7 @@ const CourseCard = () => {
                   </p>
                   <div className="flex items-center flex-wrap ">
                     <Link
-                      href={"/course/javascript/introduction"}
+                      href={"/course/javascript/chapter1"}
                       className="text-indigo-400 bg-[#1F2937] px-5 py-2 shadow-lg rounded-xl inline-flex items-center md:mb-2 lg:mb-0"
                     >
                       Learn More
